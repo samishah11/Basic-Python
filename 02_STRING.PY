@@ -1,0 +1,5 @@
+print("what's up")
+print('hellow')
+print('''my name is''')
+print("45-27+65*5**3")
+print("MY NAME IS SHAHBAZ")
